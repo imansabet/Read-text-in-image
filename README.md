@@ -1,8 +1,6 @@
 # Read-text-in-image
 # Image to Text Converter
-This Python program uses the Tesseract OCR engine to convert images to text. The program takes an image file as input, extracts the text from the image using Tesseract, and writes the text to a text file.
-
-The program can also draw bounding boxes around the text in the original image and display the image with the bounding boxes.
+This is a Python program that uses the Tesseract OCR engine to extract text from an image and display it on the screen. The program also draws rectangles around each word in the image to highlight their position.
 
 # Installation
 # Step 1: 
